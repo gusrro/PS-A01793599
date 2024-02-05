@@ -1,0 +1,40 @@
+Bin (-39.0): Negative numbers are not supported   -    Hex (-39.0): Negative numbers are not supported
+Bin (-36.0): Negative numbers are not supported   -    Hex (-36.0): Negative numbers are not supported
+Bin (8.0): 1000   -    Hex (8.0): 8
+Bin (34.0): 100010   -    Hex (34.0): 22
+Bin (17.0): 10001   -    Hex (17.0): 11
+Bin (49.0): 110001   -    Hex (49.0): 31
+Bin (5.0): 101   -    Hex (5.0): 5
+Bin (0.0): 0   -    Hex (0.0): 0
+Bin (33.0): 100001   -    Hex (33.0): 21
+Bin (12.0): 1100   -    Hex (12.0): C
+Bin (-6.0): Negative numbers are not supported   -    Hex (-6.0): Negative numbers are not supported
+Bin (27.0): 11011   -    Hex (27.0): 1B
+Bin (-4.0): Negative numbers are not supported   -    Hex (-4.0): Negative numbers are not supported
+Bin (-38.0): Negative numbers are not supported   -    Hex (-38.0): Negative numbers are not supported
+Bin (26.0): 11010   -    Hex (26.0): 1A
+Bin (49.0): 110001   -    Hex (49.0): 31
+Bin (29.0): 11101   -    Hex (29.0): 1D
+Bin (42.0): 101010   -    Hex (42.0): 2A
+Bin (-16.0): Negative numbers are not supported   -    Hex (-16.0): Negative numbers are not supported
+Bin (34.0): 100010   -    Hex (34.0): 22
+Bin (20.0): 10100   -    Hex (20.0): 14
+Bin (0.0): 0   -    Hex (0.0): 0
+Bin (25.0): 11001   -    Hex (25.0): 19
+Bin (45.0): 101101   -    Hex (45.0): 2D
+Bin (3.0): 11   -    Hex (3.0): 3
+Bin (-46.0): Negative numbers are not supported   -    Hex (-46.0): Negative numbers are not supported
+Bin (-46.0): Negative numbers are not supported   -    Hex (-46.0): Negative numbers are not supported
+Bin (29.0): 11101   -    Hex (29.0): 1D
+Bin (33.0): 100001   -    Hex (33.0): 21
+Bin (29.0): 11101   -    Hex (29.0): 1D
+Bin (26.0): 11010   -    Hex (26.0): 1A
+Bin (-5.0): Negative numbers are not supported   -    Hex (-5.0): Negative numbers are not supported
+Bin (-36.0): Negative numbers are not supported   -    Hex (-36.0): Negative numbers are not supported
+Bin (12.0): 1100   -    Hex (12.0): C
+Bin (45.0): 101101   -    Hex (45.0): 2D
+Bin (-50.0): Negative numbers are not supported   -    Hex (-50.0): Negative numbers are not supported
+Bin (0.0): 0   -    Hex (0.0): 0
+Bin (-6.0): Negative numbers are not supported   -    Hex (-6.0): Negative numbers are not supported
+
+Se escribieron 38 palabras ejecutando Tc4.txt
