@@ -1,0 +1,2 @@
+Resultado caso TC3: 165235.37
+18 registros de venta considerados.
